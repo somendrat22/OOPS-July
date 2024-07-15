@@ -1,5 +1,10 @@
 public class Audi extends Car{
 
+
+    public void giveLogo(){
+
+    }
+
     public void runEngine() {
         System.out.println("Audi mercedes engine");
     }

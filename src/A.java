@@ -4,6 +4,9 @@ public class A {
 
     int a = 10;
 
+
+    // Adding comments to learn git
+
     public void sayHello(){
         System.out.println("Hey I am A");
     }
