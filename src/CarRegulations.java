@@ -7,4 +7,6 @@ public interface CarRegulations {
 
     public void seatBeltAlarm();
 
+    public void speedLimit();
+
 }
