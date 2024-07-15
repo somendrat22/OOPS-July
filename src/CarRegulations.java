@@ -5,4 +5,6 @@ public interface CarRegulations {
 
     public void numberPlate();
 
+    public void seatBeltAlarm();
+
 }
